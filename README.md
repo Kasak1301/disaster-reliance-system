@@ -39,7 +39,7 @@ The Disaster Resilience System integrates Artificial Intelligence, drones, geosp
 Supports **UN SDG 9** — Industry, Innovation, and Infrastructure by promoting resilient infrastructure and technological innovation.
 
 ## Documentation
-- Detailed concept and design: `/docs/Disaster_Resilience_Deck.pdf`
+- Detailed concept and design: `Document`
 
 ## Author
 Kasak — Electrical Engineering student
